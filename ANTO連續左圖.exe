@@ -1,0 +1,6 @@
+@echo off
+Y:
+PATH "Y:\RMT\ProfitImageCreator\R-4.3.1\bin\x64"
+cd "Y:\RMT\ProfitImageCreator"
+Rscript ANTO_BO組連續做圖.R
+pause
